@@ -1,0 +1,8 @@
+#/Users/quantsha/Desktop/NetworkX_comp_class/.venv/lib/python3.12/site-packages/ipykernel_launcher.py --f=/Users/quantsha/Library/Jupyter/runtime/kernel-v2-807353bWqIjBB7c0G.json
+# GMT Fri Jan 26 05:49:10 2024
+# 
+0 1 2 3 4
+1 2 3 4
+2 3 4
+3 4
+4
